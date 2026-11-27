@@ -14,4 +14,4 @@ HTML | CSS | JavaScript
 - Fully Mobile Responsive
 
 ### Developer
-[Your Name] - Freelance Web Developer
+Sneha Pandey - Freelance Web Developer
