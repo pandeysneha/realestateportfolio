@@ -2,7 +2,8 @@
 
 Responsive portfolio website for a Real Estate Executive in Thane & Mumbai.
 
-**Live Demo:** [link]
+**Live Demo:** [https://pandeysneha.github.io/realestateportfolio/
+]
 
 ### Built With
 HTML | CSS | JavaScript
